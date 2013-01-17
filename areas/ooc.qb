@@ -1,0 +1,6 @@
+ROOM ZONE: "OOC Zone"
+IN "OOC Zone"
+&NAME here=The OOC Nexus
+ENDIN
+"e" : "The OOC Nexus" <-> "Admin Lounge"
+"n" : "The OOC Nexus" <-> "Faction Nexus"
