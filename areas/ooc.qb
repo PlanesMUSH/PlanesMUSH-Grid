@@ -2,5 +2,6 @@ ROOM ZONE: "OOC Zone"
 IN "OOC Zone"
 &NAME here=The OOC Nexus
 ENDIN
-"e" : "The OOC Nexus" <-> "Admin Lounge"
+"e" : "The OOC Nexus" <-> "Admin Lounge"  
 "n" : "The OOC Nexus" <-> "Faction Nexus"
+DESCRIBE "The OOC Nexus" =Welcome to The Planes Of Vestur!%r%rIt is a fantasy RPG (RolePlaying Game) where you can play your favourite race. Either participate in the war between Light and Dark, or go your own way and make your life your own!%r%rTo start out, either explore this nexus to find out more about the game or type 'CG' to get started making a character.%r%rBefore you get started, make sure to enable colour! It MUSH uses a lot of colour. Depending on if your client supports 256 colours, type '@set me=color256' or '@set me=color'.
