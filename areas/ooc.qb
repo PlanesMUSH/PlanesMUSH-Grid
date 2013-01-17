@@ -4,6 +4,6 @@ IN "OOC Zone"
 ENDIN
 "w" : "The OOC Nexus" <-> "Admin Lounge"  
 "n" : "The OOC Nexus" <-> "Faction Nexus"
-DESCRIBE "The OOC Nexus" =Welcome to The Planes Of Vestur, fellow adventurer!%r%rIt is a fantasy RPG (RolePlaying Game) where you can play your favourite race. Either participate in the war between Light and Dark, or go your own way and make your life your own!%r%rTo start out, either explore this nexus to find out more about the game or type 'CG' to get started making a character.%r%rBefore you get started, make sure to enable colour! It MUSH uses a lot of colour. Depending on if your client supports 256 colours, type '@set me=color256' or '@set me=color'.
+DESCRIBE "The OOC Nexus" =Welcome to The Planes Of Vestur, fellow adventurer!%r%rIt is a fantasy RPG (Role Playing Game) where you can play your favourite race. Either participate in the war between Light and Dark, or go your own way and make your life your own!%r%rTo start out, either explore this nexus to find out more about the game or type 'CG' to get started making a character.%r%rBefore you get started, make sure to enable colour! It MUSH uses a lot of colour. Depending on if your client supports 256 colours, type '@set me=color256' or '@set me=color'.
 DESCRIBE "Admin Lounge" =Just a hangout for admins, nothing to see here!
 DESCRIBE "Faction Nexus" =This part of the Nexus is a work in progress, since the factions have yet to be fully fleshed out. Check back soon!
